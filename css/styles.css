@@ -1,3 +1,7 @@
 #c, #java, #ruby, #english {
   display: none;
 }
+.name {
+  font-weight: bold;
+  font-style: italic;
+}

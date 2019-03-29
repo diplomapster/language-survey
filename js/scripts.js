@@ -1,11 +1,13 @@
 $(document).ready(function() {
   $("#submit").click(function() {
 
-    var name = $("#name").val();
+    var name = $("input#name").val();
     var age = parseInt($("#age").val());
     var siblings = $("#siblings").val();
     var zodiac = $("#zodiac").val();
     var starwars = $("#starwars").val();
+
+    $(".name").text(name);
 
     // if (age >= 75) {
     //   $("english").show();
