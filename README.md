@@ -6,7 +6,7 @@
 
 ## Description
 
-This project contains a survey by Brendan Moroso, a student in the March 2019 Cohort of Epicodus in Seattle, to be used to to match individuals with a programming language. This webpage is meant only for fun and should not be used to make important life choices regarding language preference. 
+This project contains a survey by Brendan Moroso, a student in the March 2019 Cohort of Epicodus in Seattle, to be used to match individuals with a programming language. This webpage is meant only for fun and should not be used to make important life choices regarding language preference.
 
 ## Setup/Installation Requirements
 
@@ -14,7 +14,7 @@ This project contains a survey by Brendan Moroso, a student in the March 2019 Co
 
 ## Support and contact details
 
-If there are any issues please contact the creator on github at [Diplomapster](https://github.com/diplomapster)
+If there are any issues, please contact the creator on github at [Diplomapster](https://github.com/diplomapster)
 
 ## Technologies Used
 

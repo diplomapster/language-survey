@@ -9,10 +9,6 @@ $(document).ready(function() {
 
     $(".name").text(name);
 
-    // if (age >= 75) {
-    //   $("english").show();
-    // } else {
-
       if (starwars === "empire" || siblings ==="oldest") {
           $("#c").show();
           $("#java").hide();
@@ -34,7 +30,5 @@ $(document).ready(function() {
         $("#java").hide();
         $("#ruby").hide();
       }
-    // }
   });
-  // event.preventDefault();
 });
